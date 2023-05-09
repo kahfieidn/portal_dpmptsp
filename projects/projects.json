@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Website DPMPTSP",
+    "desc": "Website DPMPTSP Provinsi Kepulauan Riau",
+    "image": "web_ptsp",
+    "category": "mern",
+    "links": {
+      "view": "https://dpmptsp.kepriprov.go.id/ptspkepri/",
+      "code": ""
+    }
+  },
+  {
+    "name": "Sijempol",
+    "desc": "Aplikasi Perizinan Online",
+    "image": "web_sijempol",
+    "category": "mern",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
+    }
+  },
+  {
+    "name": "OSS RBA",
+    "desc": "Online Single Submission (OSS)",
+    "image": "web_oss",
+    "category": "mern",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  },
+  {
+    "name": "Pengaduan/Konsultasi",
+    "desc": "Online Single Submission (OSS)",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  },
+  {
+    "name": "OSS RBA",
+    "desc": "Online Single Submission (OSS)",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  }
+]
